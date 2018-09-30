@@ -1,5 +1,5 @@
 Here are some:
 
-- [Cologne](cologne)
+- [Cologne](blogs/cologne)
 
-- [Frankfurt](frankfurt)
+- [Frankfurt](blogs/frankfurt)
