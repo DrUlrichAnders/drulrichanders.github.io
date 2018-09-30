@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Cologne
 
 ![](/img/16x9/99.jpg)
