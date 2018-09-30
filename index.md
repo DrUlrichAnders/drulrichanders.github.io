@@ -1,5 +1,5 @@
-Here are some:
+## Here are some:
 
-- [Cologne](blogs/cologne)
+### [Cologne](blogs/cologne)
 
-- [Frankfurt](blogs/frankfurt)
+### [Frankfurt](blogs/frankfurt)
