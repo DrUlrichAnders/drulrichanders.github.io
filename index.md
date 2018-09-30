@@ -1,5 +1,5 @@
-## Going to:
+### Going to:
 
-### [Cologne](blogs/cologne)
+## [Cologne](blogs/cologne)
 
-### [Frankfurt](blogs/frankfurt)
+## [Frankfurt](blogs/frankfurt)
