@@ -1,4 +1,4 @@
-## Here are some:
+## Going to:
 
 ### [Cologne](blogs/cologne)
 
