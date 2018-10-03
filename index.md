@@ -4,4 +4,4 @@
 
 ## [Frankfurt](blogs/02)
 
-[Data Protection](data-protection)
+[Data Privacy](data-privacy)
