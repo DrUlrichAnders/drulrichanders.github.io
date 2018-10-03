@@ -1,5 +1,5 @@
 ### Ok, let's see:
 
-## [Cologne](blogs/cologne)
+## [Cologne](blogs/01)
 
-## [Frankfurt](blogs/frankfurt)
+## [Frankfurt](blogs/02)
