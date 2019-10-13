@@ -14,9 +14,9 @@ Aliqua quis id esse ullamco non do sunt ullamco deserunt. Magna tempor ullamco a
 
 ## Applications
 
-### [Ukuleles](blogs/01)
+### [Ukuleles](applications/01)
 
-### [Motor Bike Helmets](blogs/02)
+### [Motor Bike Helmets](applications/02)
 
 ---
 
