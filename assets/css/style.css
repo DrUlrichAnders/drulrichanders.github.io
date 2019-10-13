@@ -5,3 +5,6 @@
 .inner {
   max-width: 1000px;
 }
+#header_wrap {
+  background: blue;
+}
