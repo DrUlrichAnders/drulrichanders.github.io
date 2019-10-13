@@ -16,6 +16,6 @@ Aliqua quis id esse ullamco non do sunt ullamco deserunt. Magna tempor ullamco a
 
 ## [Ukuleles](blogs/01)
 
-## [Frankfurt](blogs/02)
+## [Motor Bike Helmets](blogs/02)
 
 [Data Privacy](data-privacy)
