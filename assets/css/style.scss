@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css?family=Mansalva&display=swap");
+body {
+  font-family: "Mansalva", sans-serif;
+}
 .inner {
   max-width: 1000px;
 }
