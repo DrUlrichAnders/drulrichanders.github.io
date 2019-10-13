@@ -12,10 +12,10 @@ Proident ullamco occaecat voluptate labore excepteur voluptate ea esse commodo e
 
 Aliqua quis id esse ullamco non do sunt ullamco deserunt. Magna tempor ullamco ad sunt anim ex sit aliquip consectetur eiusmod. Occaecat sit esse sint enim consequat proident duis non esse laboris. Proident aliquip incididunt ad nulla pariatur eu enim id. Deserunt reprehenderit tempor reprehenderit eiusmod non eu pariatur culpa nulla aliquip Lorem minim adipisicing aute. Qui dolore ut sit enim ea deserunt Lorem eu qui do dolore ut laboris reprehenderit. Exercitation aute dolore incididunt amet et elit et ea et ex dolor aliquip.
 
-# Applications
+## Applications
 
-## [Ukuleles](blogs/01)
+### [Ukuleles](blogs/01)
 
-## [Motor Bike Helmets](blogs/02)
+### [Motor Bike Helmets](blogs/02)
 
 [Data Privacy](data-privacy)
