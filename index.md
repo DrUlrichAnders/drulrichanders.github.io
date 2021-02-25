@@ -19,3 +19,4 @@ There are three programming languages in the Browser:
 I want to express this **important** issue. Other issues are in _italics_. And I can show how this ~~does not~~ works.
 
 [Data Protection](/data-privacy.md)
+[Imprint](/imprint.md)
