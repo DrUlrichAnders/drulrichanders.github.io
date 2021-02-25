@@ -1,3 +1,5 @@
-# Ulrich Anders
+# About
 
-This is me. There is not much to tell!
+![Ulrich Anders](Prof-Dr-Ulrich-Anders.jpg)
+
+Hello everybody, this is Ulrich Anders. I am quite excited, that you are visiting my web-page.
